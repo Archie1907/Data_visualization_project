@@ -3,3 +3,6 @@
 
 # Ignore RStudio project files
 .Rproj.user/
+
+# Ignore RStudio history files
+.Rhistory
